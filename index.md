@@ -30,7 +30,7 @@ Each track is saved locally to the folder you select. Your Windows Music folder 
 - **One-track workflow** — create and review a track before moving on to the next one
 - **Music API Profiles** — save named provider, model, endpoint, and encrypted-key combinations
 - **Provider flexibility** — use OpenRouter, Gemini (Lyria), Stable Audio, TemPolor, SOUNDRAW, or a custom endpoint
-- **Music personas** — reusable musical directions with goals, sound, tempo range, rules, and a personal note
+- **Music personas** — reusable musical directions with goals, rules, and a personal note
 - **Output templates** — start from Product Demo, Podcast Intro, Documentary, Study & Focus, Creator Video, or your own editable template
 - **In-app player and Activity Log** — listen immediately and see generation progress or errors without leaving the app
 - **MP3 and WAV output** — choose the file format that best fits your editor or workflow
@@ -43,7 +43,7 @@ Each track is saved locally to the folder you select. Your Windows Music folder 
 - [Choosing a Music Provider](choosing-a-provider) — understand the profile fields and choose where to start
 - [Music Personas](music-personas) — use or edit reusable musical directions
 - [Output Templates](output-templates) — shape common uses such as product demos and podcast intros
-- [Output, Playback, and Activity Log](output-playback) — save, listen, and troubleshoot a generated track
+- [Save & Listen](output-playback) — choose where tracks go and play them in BMG
 - [Troubleshooting](troubleshooting) — common setup and generation issues
 
 ---

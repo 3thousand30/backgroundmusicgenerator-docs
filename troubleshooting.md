@@ -12,7 +12,7 @@ Check that the API key is active, the Base URL is correct, and the model name ex
 
 ## Generate does nothing or fails
 
-Open the **Activity Log**. It records the provider response and is the best place to see whether the issue is the API key, account credit, model, endpoint, or request.
+Open the **Activity Log** in the header. It records when a request starts, the chosen profile, requested output, saved track path, and provider response. Use it to check whether the issue is the API key, account credit, model, endpoint, or request.
 
 ## The generated track does not play in BMG
 

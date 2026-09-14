@@ -31,7 +31,7 @@ If you are unsure where to start, see [Choosing a Music Provider](choosing-a-pro
 
 On **1. Brief**, choose a persona. A persona is the reusable musical direction for your work; it is not a second prompt to fill in every time.
 
-The profile preview shows its direction, what it is good for, sound, tempo range, and note. Click **Edit** to change a starter persona or create your own.
+The profile preview shows its direction, what it is good for, and your personal note. Click **Edit** to change a starter persona or create your own.
 
 ---
 
@@ -49,7 +49,7 @@ The active persona supplies reusable direction; the brief supplies the purpose o
 
 Click **Continue** to open **2. Output**. Choose a template, then tune the duration, mood, genre, tempo, instruments, loop setting, format, and output folder.
 
-Templates are a quick starting point for a use case such as Product Demo or Podcast Intro. You can edit any of their defaults before generating.
+Templates are a quick starting point for a use case such as Product Demo or Podcast Intro. Selecting one fills the Output controls with its defaults. After that, the values visible in Output are used for this track. Choose a quick instrument combination or **Choose instruments** to build your own selection.
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Output, Playback, and Activity Log
+title: Save & Listen
 nav_order: 6
 ---
 
-# Output, Playback, and Activity Log
+# Save & Listen
 
 ## Where tracks are saved
 
@@ -15,9 +15,3 @@ Choose **MP3** for broad compatibility and a smaller file, or **WAV** when your 
 ## Listen in BMG
 
 The player is always visible at the top of the Output step. After generation, it loads the saved file automatically. Use the standard play, seek, volume, and menu controls, or choose **Show in folder** to open the file location.
-
-## Activity Log
-
-Click the Activity Log icon in the header to see generation status and connection messages. It records when a request starts, the chosen profile, the requested output, the saved track path, and provider errors.
-
-If generation fails, BMG opens the log automatically so the error is visible immediately.

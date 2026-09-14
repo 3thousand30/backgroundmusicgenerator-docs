@@ -12,8 +12,6 @@ A music persona is a reusable musical direction. It helps BMG carry the same cha
 
 - **Direction** — the overall musical character
 - **Good for** — the kind of work the direction supports
-- **Sound** — its genres and moods
-- **Tempo** — the useful BPM range
 - **Note** — your own reminder or creative context
 - **Do and Avoid rules** — guidance that is added to every request using that persona
 
@@ -23,6 +21,6 @@ BMG includes Narration Music, Brand & Product Music, Focus Music, Cinematic Stor
 
 ## Edit or create one
 
-On **1. Brief**, click the pencil beside the persona picker. Give the persona a clear name, then adjust the direction, note, goals, genres, moods, instruments, tempo range, and rules.
+On **1. Brief**, click the pencil beside the persona picker. Give the persona a clear name, then adjust the direction, personal note, goals, and do/avoid rules. Goals and preset rules are chosen from lists; you can also add custom rules.
 
 Keep a persona broad enough to reuse. Put the specifics of the next track—such as its video topic or emotional beat—in the [brief](getting-started#3-write-your-brief).
