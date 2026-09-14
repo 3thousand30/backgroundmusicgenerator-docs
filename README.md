@@ -2,4 +2,4 @@
 
 Jekyll/Just the Docs source for the public BMG documentation site.
 
-The initial linked pages are intentionally placeholders while the full documentation is written. The completed site will cover Music API Profile setup, provider selection, connection testing, output and playback, and provider commercial-use terms.
+The site covers Music API Profile setup, provider selection, music personas, output templates, playback, troubleshooting, and privacy. It is published with GitHub Pages from `main`.
