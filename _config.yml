@@ -1,0 +1,13 @@
+title: Background Music Generator
+description: Documentation for Background Music Generator with any AI.
+theme: just-the-docs
+url: https://3thousand30.github.io
+baseurl: /backgroundmusicgenerator-docs
+nav_sort: order
+search_enabled: true
+aux_links:
+  "Get on Microsoft Store": "https://apps.microsoft.com/detail/9P6KHZWC9HNR"
+aux_links_new_tab: true
+footer_content: >
+  &copy; 2026 <a href="https://3thousand30.com">3thousand30</a> ·
+  <a href="mailto:hello@3thousand30.com?subject=Background%20Music%20Generator%20support">Support</a>
