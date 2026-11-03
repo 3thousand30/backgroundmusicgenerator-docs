@@ -51,7 +51,7 @@ Click **Continue** to open **2. Output**. Choose a template, then tune the durat
 
 Templates are a quick starting point for a use case such as Product Demo or Podcast Intro. Selecting one fills the Output controls with its defaults. After that, the values visible in Output are used for this track. Choose a quick instrument combination or **Choose instruments** to build your own selection.
 
-When you choose **MP3**, BMG also shows **MP3 details** before generation. The title starts with the Track name from step 1, and you can change it independently. Add contributing artists, album, and track number when you want Windows and music software to identify and sort the file correctly. These details are embedded in the generated MP3; they do not apply to WAV output.
+Use **Track details** before generation to add a title, contributing artists, album, and track number. The title starts with the Track name from step 1, and you can change it independently. BMG embeds these details in MP3 and WAV files. WAV uses standard RIFF INFO tags, whose display can vary between media apps.
 
 ---
 

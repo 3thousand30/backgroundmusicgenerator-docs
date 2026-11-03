@@ -33,7 +33,7 @@ Each track is saved locally to the folder you select. Your Windows Music folder 
 - **Music personas** — reusable musical directions with goals, rules, and a personal note
 - **Output templates** — start from Product Demo, Podcast Intro, Documentary, Study & Focus, Creator Video, or your own editable template
 - **In-app player and Activity Log** — listen immediately and see generation progress or errors without leaving the app
-- **MP3 details and WAV output** — add a title, contributing artists, album, and track number to a generated MP3, or choose WAV when your editor needs uncompressed audio
+- **Track details for MP3 and WAV** — embed a title, contributing artists, album, and track number in either format
 
 ---
 
