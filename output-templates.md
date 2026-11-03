@@ -10,7 +10,7 @@ Templates are reusable output starting points. Unlike a persona, a template desc
 
 ## Included templates
 
-- Calm Voiceover Background
+- Universal Video Background
 - Product Demo
 - Study & Focus
 - Documentary
